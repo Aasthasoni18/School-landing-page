@@ -1,0 +1,92 @@
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 500;
+}
+.pt-5{
+    padding-top: 0rem !important;
+
+}
+.form-label{
+    font-weight: 300;
+}
+.mt-5{
+    margin-top: 0rem!important;
+}
+.card-title{
+    font-family: 'Times New Roman', Times, serif;
+}
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+.intro { 
+    text-align: center; 
+    font-family: Arial;
+  }
+  
+  h2 { 
+    font-size: 36px;
+  }
+  
+  p { 
+    font-size: 14pt;
+  }
+  
+  #image-gallery { 
+    width: 600px; 
+    margin: 0 auto;
+  }
+  
+  #current-image { 
+    width: 100%;
+  } 
+  .card-body{
+    padding: 0%;
+  }
+  .cta-box-1{
+    background-color: burlywood;
+  }
+.contact{
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.border{
+    border-color: brown;
+}
+.getcall{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.btn-one{
+    margin-top: 50px;
+}
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.info{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.inner-info{
+    color: black;
+    text-decoration: none;
+    font-size:medium;
+}
+.foot{
+    color: white;
+ }
+ .text-reset{
+    text-decoration: none;
+ }
+ .d-block{
+    margin-top: -7%;
+    font-weight: 50px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .counter{
+    font-family: 'Times New Roman', Times, serif;
+ }
